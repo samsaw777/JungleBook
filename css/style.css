@@ -1,0 +1,259 @@
+.mainpage{
+    width: 100%;
+    float: left;
+}
+
+.mainheader{
+    width: 100%;
+    float: left;
+    background: #34217c;
+}
+
+.headerlogo{
+    width: 100%;
+    float: left;
+}
+
+
+.headerlogo{
+    width: 100%;
+    float: left;
+}
+
+.navigationbar{
+    width: 100%;
+    float: left;
+}
+
+
+.navbar-nav a{
+    color: #fff;
+}
+
+.searchbutton{
+    border-radius: 15px;
+    margin-left: 10px;
+    border: 0;  
+}
+
+.fa-facebook-official:before{
+    color: #fff;
+    padding: 20px 0 0 10px;
+    font-size: 25px;
+}
+
+.fa-instagram:before {
+     color: #fff;
+    padding: 20px 0 0 10px;
+    font-size: 25px;
+}
+
+.fa-youtube-play:before {
+    color: #fff;
+    padding: 20px 0 0 10px;
+    font-size: 25px;
+}
+
+.icons{
+    display: inline-block;
+        margin: 10px 0 0 10px;
+}
+
+.carousel-control-next .carousel-control-next-icon{
+width: 30px;
+    height: 30px;
+    color: #ccc;
+}
+
+.carousel-control-prev .carousel-control-prev-icon{
+width: 30px;
+    height: 30px;
+    color: #ccc;
+}
+
+.thirdheader h1{
+    color: #b8c08e;
+}
+
+.thirdheader{
+    margin-top: 60px;
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+
+    .demo-content{
+        padding: 20px;
+        margin-bottom: 20px;
+    }
+
+.third{
+    width: 100%;
+    float: left;
+}
+
+.text-center{
+    margin-top: 50px;
+}
+
+.demo-content img{
+    width: 100%;
+}
+
+.headerpag{
+    font-size: 21px;
+    text-align: center;
+    color: #34217c;
+}
+
+/*.btn-primary{
+    margin-left: 50px;
+}*/
+
+.footerpag1{
+    text-align: justify;
+    margin-top: 30px;
+}
+
+.footerpag2{
+    text-align: justify;
+    margin-top: 15px;
+}
+
+.footerpag3{
+    text-align: justify;
+    margin-top: 40px;
+}
+
+.footerpag4{
+    text-align: justify;
+    margin-top: 13px;
+}
+
+.fourth{
+    background: #98bf30;
+    width: 100%;
+    float: left;
+}
+
+.footerpag5{
+ text-align: justify;
+    margin-top: 15px;
+}
+
+.footerpag6{
+ text-align: justify;
+    margin-top: 15px;
+}
+
+.footerpag7{
+ text-align: justify;
+    margin-top: 15px;
+}
+
+/*.butto{
+    margin-left: 35%;
+}*/
+.myslider{
+    width: 100%;
+    float: left;
+}
+
+.coll{
+    width: 100%;
+    float: left;
+}
+
+.search{
+    float: right;
+    margin-left: 7%;
+}
+
+.footerpart{
+    width: 100%;
+    float: left;
+    margin-bottom: 30px;
+}
+
+.footerpartheader{
+    margin-top: 30px;
+}
+
+.form{
+    width: 100%;
+    float: left;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.input1{
+    border-radius:15px 0 0 15px;
+    width: 30%;
+    border: 1px solid #ccc;
+}
+
+.input2{
+    border-radius:0 15px 15px 0;
+    background:  #34217c;
+    border: 0;
+    height: 26px;
+    margin-left: -5px;
+}
+
+.border{
+    width: 100%;
+    float: left;
+    border-top: 1px dotted #34217c;
+}
+
+.borderheader{
+    text-align: center;
+    color: #34217c;
+}
+
+.iconsbott{
+    text-align: center;
+    width: 100%;
+    float: left;
+}
+
+.iconsbott .fa-facebook-official:before {
+    content: "\f230";
+    color: #34217c;
+}
+
+.iconsbott .fa-instagram:before {
+    content: "\f16d";
+     color: #34217c;
+}
+.iconsbott .fa-youtube-play:before {
+    content: "\f16a";
+    color: #34217c;
+}
+.footerpartheader h2{
+    color: #34217c;    
+}
+
+.demo-content{
+    text-align: center;
+}
+
+.dci{
+    width: 100%;
+    float: left;
+}
+
+.dmi{
+    width: 100%;
+    float: left;
+}
+
+.dpi{
+    width: 100%;
+    float: left;
+}
+
+.mainheader{
+    width: 100%;
+    float: left;
+}
